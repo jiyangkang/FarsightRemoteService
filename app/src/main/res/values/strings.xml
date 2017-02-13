@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FarsightRemoteService</string>
+    <string name="service">com.hqyj.dev.farsightremoteservice.RemoteService</string>
+</resources>
